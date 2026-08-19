@@ -66,12 +66,6 @@ The system supports:
 4. Run the program.
 5. Login using the demo credentials.
 
-## 🔐 Demo Login
-
-**Username:** `admin`
-
-**Password:** `admin123`
-
 ## 📋 Main Menu
 
 ```text
