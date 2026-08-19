@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.layout
+*.depend
+*.cbp
+
+medicine.dat
+bill_history.txt
